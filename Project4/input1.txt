@@ -1,0 +1,4 @@
+quicksort topology earthquake
+washington fourscore and seven years ago fourscore
+stop words are handled correctly
+a the and not for
